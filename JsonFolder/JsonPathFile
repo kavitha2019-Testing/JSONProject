@@ -1,0 +1,18 @@
+{
+  "name" : " hihs",
+  "Salary" : " 23000",
+
+  "address" : [
+    {
+      "street" : " gdhsjs",
+      "doorno" : " 34",
+      "city"  : "Hyderabad"
+    },
+    {
+      "street" : " lamber",
+      "doorno" : " 39",
+      "city"  : "Delhi"
+    }
+  ],
+  "Age" : 23
+}
